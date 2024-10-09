@@ -1,4 +1,5 @@
 /node_modules
+/src/nft-frontend/node_modules
 
 # Build output directories
 /build
